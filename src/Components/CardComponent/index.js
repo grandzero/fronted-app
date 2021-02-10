@@ -16,7 +16,7 @@ function CardComponent({item}) {
     <Card.Text>
     {item.description.length > 50 ? item.description.slice(0,50) : item.description}
         </Card.Text>
-    <Button onClick={clickHandler} variant="primary">Teklif Ver</Button>
+    <Button onClick={clickHandler} variant="primary">Detaylar</Button>
   </Card.Body>
 </Card>
     )
