@@ -1,0 +1,12 @@
+.area{
+    background: url(https://cdn.tapu.com/assets/images/illu.png) no-repeat 90% 100%;
+    height: 50vh;
+    text-align: left;
+    justify-content: left;
+    margin:0 !important;
+    
+    
+}
+.txtcolor{
+    color:#343a40;
+}
